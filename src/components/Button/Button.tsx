@@ -1,7 +1,7 @@
 import React from "react";
 import "./Button.css"
 
-interface IButtonProp {
+export interface IButtonProp {
     label: string;
 }
 
