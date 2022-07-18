@@ -16,6 +16,6 @@ Button requires a label to be used. Import as:
 
 used as:
 ```
-            Button label="Hello World" />
+            <Button label="Hello World" />
 ```
 
