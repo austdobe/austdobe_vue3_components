@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/austdobe/austdobe_vue3_components.git"
+    "url": "git+https://github.com/austdobe/react_component_library.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/austdobe/austdobe_vue3_components/issues"
+    "url": "https://github.com/austdobe/react_component_library/issues"
   },
-  "homepage": "https://github.com/austdobe/austdobe_vue3_components#readme",
+  "homepage": "https://github.com/austdobe/react_component_library#readme",
   "devDependencies": {
     "@babel/core": "^7.18.9",
     "@babel/preset-env": "^7.18.9",
@@ -56,6 +56,6 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/austdobe"
+    "registry": "https://npm.pkg.github.com/austdobe/react_component_library"
   }
 }
