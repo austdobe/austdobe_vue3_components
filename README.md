@@ -3,12 +3,8 @@
 This is an NPM package containing personally developed and designed components. 
 
 Component list: 
-<div>
-    <hr> 
-    <ul>
-        [Button](#button)
-    </ul>
-</div>
+<hr> 
+[Button](#button)
 
 # Button
 Button requires a label to be used. Import as: 
