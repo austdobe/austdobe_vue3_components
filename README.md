@@ -15,6 +15,7 @@ Button requires a label to be used. Import as:
             import { Button } from "austdobe_React_components"
 
 used as:
-            <Button label="Hello World" />
-
+```
+            Button label="Hello World" />
+```
 
