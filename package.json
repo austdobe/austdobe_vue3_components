@@ -1,5 +1,5 @@
 {
-  "name": "@austdobe/react_component_library",
+  "name": "@austdobe/austdobe_react_components",
   "version": "0.3.0",
   "description": "This is an NPM package containing personally developed an styled components.",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/austdobe/react_component_library.git"
+    "url": "git+https://github.com/austdobe/austdobe_react_components.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/austdobe/react_component_library/issues"
+    "url": "https://github.com/austdobe/austdobe_react_components/issues"
   },
-  "homepage": "https://github.com/austdobe/react_component_library#readme",
+  "homepage": "https://github.com/austdobe/austdobe_react_components#readme",
   "devDependencies": {
     "@babel/core": "^7.18.9",
     "@babel/preset-env": "^7.18.9",
@@ -56,6 +56,6 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/austdobe/react_component_library"
+    "registry": "https://npm.pkg.github.com/austdobe/austdobe_react_components"
   }
 }
