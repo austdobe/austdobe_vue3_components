@@ -3,7 +3,8 @@
 This is an NPM package containing personally developed and designed components. 
 
 Component list: 
-<hr> 
+    <hr> 
+
 [Button](#button)
 
 # Button
