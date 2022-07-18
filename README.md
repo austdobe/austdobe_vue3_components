@@ -6,10 +6,11 @@ Component list:
 <div>
     <hr> 
     <ul>
-        <li>Button</li>
+        [<li>Button</li>](#Button)
     </ul>
 </div>
 
+# Button
 Button requires a label to be used. Import as: 
 ```
     import { Button } from "austdobe_React_components"
