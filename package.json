@@ -1,5 +1,5 @@
 {
-  "name": "component_library",
+  "name": "@austdobe/react_component_library",
   "version": "1.0.0",
   "description": "This is an NPM package containing personally developed an styled components.",
   "scripts": {
@@ -25,15 +25,13 @@
     "rollup": "^2.77.0",
     "rollup-plugin-dts": "^4.2.2",
     "rollup-plugin-postcss": "^4.0.2",
-    "typescript": "^4.7.4"
+    "typescript": "^4.7.4",
+    "tslib": "^2.4.0"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts",
-  "dependencies": {
-    "tslib": "^2.4.0"
-  }
+  "types": "dist/index.d.ts"
 }
