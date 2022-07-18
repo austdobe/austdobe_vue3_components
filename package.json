@@ -1,6 +1,6 @@
 {
   "name": "@austdobe/react_component_library",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "This is an NPM package containing personally developed an styled components.",
   "scripts": {
     "rollup": "rollup -c",
