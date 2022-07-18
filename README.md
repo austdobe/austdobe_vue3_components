@@ -6,7 +6,7 @@ Component list:
 <div>
     <hr> 
     <ul>
-        [<li>Button</li>](#Button)
+        <li>[Button](#Button)</li>
     </ul>
 </div>
 
