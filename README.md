@@ -10,7 +10,7 @@ Component list:
     </ul>
 </div>
 
-# Button
+#Button
 Button requires a label to be used. Import as: 
 ```
     import { Button } from "austdobe_React_components"
