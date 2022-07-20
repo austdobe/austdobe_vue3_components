@@ -1,12 +1,17 @@
 import React from "react";
 import "./Button.css"
 
-interface IButtonProp {
+export interface IButtonProp {
     label: string;
 }
 
 const Button = (props:IButtonProp) => {
-    return <button>{props.label}</button>
+    
+    return (
+        <button>
+            {props.label}
+        </button>
+    )
 }
 
 export default Button

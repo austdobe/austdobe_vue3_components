@@ -5,8 +5,8 @@
   "scripts": {
     "rollup": "rollup -c",
     "test": "jest",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "story": "start-storybook -p 6006",
+    "build-story": "build-storybook"
   },
   "repository": {
     "type": "git",
