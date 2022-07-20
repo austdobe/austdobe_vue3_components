@@ -17,6 +17,7 @@ export const HelloWorld = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
 HelloWorld.args = {
   label: 'Hello world',
+  classes: "bg-dark font-big"
 };
 
 export const ClickMe = Template.bind({});

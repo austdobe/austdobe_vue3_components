@@ -1,5 +1,6 @@
 import React from "react";
-import "./TopNav.css"
+import "../../styles/global.css"
+import "../../styles/TopNav.css"
 
 export interface ITopNavProp {
     label: string;
